@@ -1,0 +1,23 @@
+<svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- 金色翅膀 - 优化路径确保完整显示 -->
+  <path d="M25,40 C15,30 5,35 10,50 C5,65 15,70 25,60 L25,40 Z" fill="#FFBF00" stroke="#FF8C00" stroke-width="2"/>
+  <path d="M95,40 C105,30 115,35 110,50 C115,65 105,70 95,60 L95,40 Z" fill="#FFBF00" stroke="#FF8C00" stroke-width="2"/>
+  
+  <!-- 红色盾牌背景 - 更鲜艳的红色 -->
+  <path d="M60,15 L95,35 L95,80 C95,100 60,115 60,115 C60,115 25,100 25,80 L25,35 Z" fill="#FF0038" stroke="#8B0000" stroke-width="3"/>
+  
+  <!-- 金色边框 -->
+  <path d="M45,30 L75,30 L75,75 L45,75 Z" fill="#FFBF00" stroke="#FF8C00" stroke-width="2"/>
+  
+  <!-- 数字2 - 调整位置确保完整显示 -->
+  <text x="60" y="60" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+  
+  <!-- 皇冠 - 优化路径 -->
+  <path d="M50,25 L52,15 L55,25 L58,15 L62,25 L65,15 L68,25 L60,25 L60,20 L50,25 Z" fill="#FFBF00" stroke="#FF8C00" stroke-width="1"/>
+  
+  <!-- 下方装饰 -->
+  <path d="M30,80 L90,80 L85,90 L60,105 L35,90 Z" fill="#8B0000" stroke="#696969" stroke-width="1"/>
+  
+  <!-- 文本 - 增大字体确保清晰可见 -->
+  <text x="60" y="130" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#000000" text-anchor="middle">传奇</text>
+</svg>
